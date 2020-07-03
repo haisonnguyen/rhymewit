@@ -1,24 +1,34 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import { Navbar, Nav, Button, ButtonGroup } from 'react-bootstrap'
+
+import Main from "../src/components/Main";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar collapseOnSelect expand="lg" bg="light" variant="light"style={{height:"10vh"}}>
+        <Navbar.Brand href="#home" style={{ color: "#f26524", fontWeight: "bold" }}>Rhymewit</Navbar.Brand>
+        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+        <Navbar.Collapse id="responsive-navbar-nav">
+          <Nav className="mr-auto">
+          </Nav>
+          <Nav>
+            <ButtonGroup className="mr-4">
+              <Button variant="light" type="submit">Log in</Button>{' '}
+            </ButtonGroup>
+            <ButtonGroup className="mr-4">
+              <Button type="submit" style={{ backgroundColor: "#24509e" }}>Sign up</Button>{' '}
+            </ButtonGroup>
+          </Nav>
+        </Navbar.Collapse>
+      </Navbar>
+      <Main>
+
+      </Main>
     </div>
   );
 }
