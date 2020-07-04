@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/rhymewit/static/css/main.5f361e03.chunk.css",
-    "main.js": "/rhymewit/static/js/main.3f4cd562.chunk.js",
-    "main.js.map": "/rhymewit/static/js/main.3f4cd562.chunk.js.map",
+    "main.css": "/rhymewit/static/css/main.523f09c5.chunk.css",
+    "main.js": "/rhymewit/static/js/main.1b2c4dc2.chunk.js",
+    "main.js.map": "/rhymewit/static/js/main.1b2c4dc2.chunk.js.map",
     "runtime-main.js": "/rhymewit/static/js/runtime-main.a4c03ccf.js",
     "runtime-main.js.map": "/rhymewit/static/js/runtime-main.a4c03ccf.js.map",
     "static/css/2.af3c1da9.chunk.css": "/rhymewit/static/css/2.af3c1da9.chunk.css",
     "static/js/2.26e346c4.chunk.js": "/rhymewit/static/js/2.26e346c4.chunk.js",
     "static/js/2.26e346c4.chunk.js.map": "/rhymewit/static/js/2.26e346c4.chunk.js.map",
     "index.html": "/rhymewit/index.html",
-    "precache-manifest.1541ec04a0e02942b333f82cdeed63a0.js": "/rhymewit/precache-manifest.1541ec04a0e02942b333f82cdeed63a0.js",
+    "precache-manifest.d485106795e5c30a690f4b04372714de.js": "/rhymewit/precache-manifest.d485106795e5c30a690f4b04372714de.js",
     "service-worker.js": "/rhymewit/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/rhymewit/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/rhymewit/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/rhymewit/static/css/main.523f09c5.chunk.css.map",
     "static/js/2.26e346c4.chunk.js.LICENSE.txt": "/rhymewit/static/js/2.26e346c4.chunk.js.LICENSE.txt",
     "static/media/girl.png": "/rhymewit/static/media/girl.a3a111db.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.a4c03ccf.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.26e346c4.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3f4cd562.chunk.js"
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.1b2c4dc2.chunk.js"
   ]
 }

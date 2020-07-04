@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rhymewit/precache-manifest.1541ec04a0e02942b333f82cdeed63a0.js"
+  "/rhymewit/precache-manifest.d485106795e5c30a690f4b04372714de.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f0a5bb7fc888b89467592cab33763d2",
+    "revision": "1adcbf23498c068ab82380b1dd27ad4a",
     "url": "/rhymewit/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rhymewit/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "41c68b45fe44caa6f4f3",
-    "url": "/rhymewit/static/css/main.5f361e03.chunk.css"
+    "revision": "d16235fd94cd9caa6d80",
+    "url": "/rhymewit/static/css/main.523f09c5.chunk.css"
   },
   {
     "revision": "62cbde12d6e530578be8",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rhymewit/static/js/2.26e346c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41c68b45fe44caa6f4f3",
-    "url": "/rhymewit/static/js/main.3f4cd562.chunk.js"
+    "revision": "d16235fd94cd9caa6d80",
+    "url": "/rhymewit/static/js/main.1b2c4dc2.chunk.js"
   },
   {
     "revision": "6ec6f392f95c902f09e9",
