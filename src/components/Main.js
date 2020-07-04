@@ -16,7 +16,7 @@ function Main() {
                             <Col>
                                 <Card.Body style={{ fontSize: "2.3vw", fontWeight: "bold", height: "100%" }}>
                                     <Card.Text className="text-left" style={{ height: "100%" }}>
-                                        Tired of boring quizzess all the <span style={{ color: "#FFFFFF", backgroundColor: "#f26524", }}>time</span>?
+                                        Tired of boring quizzes all the <span style={{ color: "#FFFFFF", backgroundColor: "#f26524", }}>time</span>?
                                     <br></br><br></br>
                                 Use <span style={{ color: "#f26524" }}>Rhyme</span><span style={{ color: "#faab53" }}>wit </span> so students learn <br></br> through <span style={{ fontWeight: "bold", color: "#f26524" }}>__________</span> .
                                 </Card.Text>
